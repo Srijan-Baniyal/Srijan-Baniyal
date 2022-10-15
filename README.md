@@ -23,7 +23,7 @@ I'm a Full-Stack Developer From India ..
 ## My Tech Stack 
 
 #### Front-End
-<h1 align="center">
+<h1 align="center" display="flex">
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
