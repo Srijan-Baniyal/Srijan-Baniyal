@@ -23,6 +23,7 @@ I'm a Full-Stack Developer From India ..
 ## My Tech Stack 
 
 #### Front-End
+<h1 align="center">
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -45,6 +46,7 @@ I'm a Full-Stack Developer From India ..
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
+</h1>
 
 #### Back-End
 
