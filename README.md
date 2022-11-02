@@ -6,7 +6,7 @@ I'm a Full-Stack Developer From India ..
 
 ## Currently 
 
- 1. Working on My First "Project" .. Click on this Link to Check it out ... https://github.com/Srijan-Baniyal/Project-1 .
+ 1. Working on My First "Project"...
  
  2. Learning more about Frame Works like Strapi , JavaScript libraries , Next.js to increase my knowledge on how web works and how can I make a web more better place . 
  
