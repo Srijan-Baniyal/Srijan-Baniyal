@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Srijan Baniyal 😀
+I'm Srijan Baniyal 
 
 I'm a Full-Stack Developer From India ..
 
