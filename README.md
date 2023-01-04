@@ -18,7 +18,7 @@ I'm a Full-Stack Developer From India ..
 - I'm 16 years old who loves to work on big project and going solo .
 - I like to collaborate with new people or friends on GitHub.
 - I like to read open-source code which are new and  interesting ones . 
-- I'm also working on Python because it is just like english and really a fun programming language.
+- I also like to  work on Python because it is just like english and really a fun programming language to learn.
 
 ## My Tech Stack 
 
