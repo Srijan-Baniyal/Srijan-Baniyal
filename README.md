@@ -1,1 +1,1 @@
-New Profile will be comming on 1<sup>th</sup> August 2023
+New Profile will be comming on 1<sup>st</sup> August 2023
