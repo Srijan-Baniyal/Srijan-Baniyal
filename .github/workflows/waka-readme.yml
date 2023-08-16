@@ -8,7 +8,7 @@ on:
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
-    runs-on: ubuntu
+    runs-on: windows
     steps:
       - uses: Srijan-Baniyal/Srijan-Baniyal@master
         with:
