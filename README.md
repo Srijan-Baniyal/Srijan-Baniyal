@@ -20,6 +20,13 @@
 </p>
 
 <!--START_SECTION:waka-->
+
+```txt
+Markdown   36 mins         ████████████████████████░   95.61 %
+YAML       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+Text       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+```
+
 <!--END_SECTION:waka-->
 
 <p align="center">
