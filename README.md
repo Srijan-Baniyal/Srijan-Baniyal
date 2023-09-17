@@ -43,7 +43,7 @@ const teachings = {
 <!--START_SECTION:waka-->
 
 ```TypeScript
-From: 15 August 2023 - To: 14 September 2023
+From: 15 August 2023 - To: 15 September 2023
 
 Total Time: 26 hrs 18 mins
 
