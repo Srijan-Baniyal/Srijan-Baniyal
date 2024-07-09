@@ -43,19 +43,19 @@ const teachings = {
 <!--START_SECTION:waka-->
 
 ```TypeScript
-From: 15 August 2023 - To: 06 July 2024
+From: 15 August 2023 - To: 07 July 2024
 
-Total Time: 116 hrs 14 mins
+Total Time: 117 hrs 17 mins
 
-Python         56 hrs 30 mins  ############-------------   48.61 %
-TypeScript     38 hrs 21 mins  ########-----------------   33.00 %
-JSON           6 hrs 29 mins   #------------------------   05.59 %
-JavaScript     3 hrs 45 mins   #------------------------   03.23 %
-Markdown       2 hrs 9 mins    -------------------------   01.85 %
-CSV            1 hr 47 mins    -------------------------   01.55 %
-CSS            1 hr 6 mins     -------------------------   00.95 %
-Ezhil          52 mins         -------------------------   00.75 %
-Text           50 mins         -------------------------   00.72 %
+Python         57 hrs 20 mins  ############-------------   48.89 %
+TypeScript     38 hrs 21 mins  ########-----------------   32.70 %
+JSON           6 hrs 29 mins   #------------------------   05.54 %
+JavaScript     3 hrs 45 mins   #------------------------   03.20 %
+Markdown       2 hrs 9 mins    -------------------------   01.84 %
+CSV            1 hr 47 mins    -------------------------   01.53 %
+CSS            1 hr 6 mins     -------------------------   00.94 %
+Ezhil          52 mins         -------------------------   00.74 %
+Text           50 mins         -------------------------   00.71 %
 HTML           46 mins         -------------------------   00.67 %
 Bash           44 mins         -------------------------   00.63 %
 ```
