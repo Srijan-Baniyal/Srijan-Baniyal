@@ -5,8 +5,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Moirai+One&size=50&pause=1000&center=true&vCenter=true&width=1500&height=300&lines=Welcome+to+My+GitHub+Profile;I+'+m+a+Full-Stack-Developer+from+India;Loves+To+play+%3CbasketBall+%2F%3E+and+%3CListenSongs+%2F%3E" alt="Typing SVG" /></a>
 </p>
 
-<iframe src="https://api.badgr.io/public/assertions/r9BLLy0oTfKJBbkGuDI1zA?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191" title="Badge: Postman API Fundamentals Student Expert" style="width: 330px; height: 191px; border: 0px;"></iframe>
-
 ```javascript
 while (bored === true) {
   if (level === 1) {
