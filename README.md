@@ -7,18 +7,13 @@
 
 [![An image of @srijanbaniyal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/srijanbaniyal)](https://holopin.io/@srijanbaniyal)
 
-<a href="https://api.badgr.io/public/assertions/r9BLLy0oTfKJBbkGuDI1zA">
-    <img width="130px" height="130px" src="https://api.badgr.io/public/assertions/r9BLLy0oTfKJBbkGuDI1zA/image" alt="Postman API Fundamentals Student Expert">
-</a>
+[![Postman API Fundamentals Student Expert](https://api.badgr.io/public/assertions/r9BLLy0oTfKJBbkGuDI1zA/image)](https://api.badgr.io/public/assertions/r9BLLy0oTfKJBbkGuDI1zA)
 
 ### Postman API Fundamentals Student Expert
 
 **Awarded:** 24-Jun-2024
 
-<a href="https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2Fr9BLLy0oTfKJBbkGuDI1zA" style="display: inline-block; padding: 8px 16px; font-size: 14px; font-weight: bold; color: white; background-color: #007bff; border-radius: 4px; text-decoration: none; border: 1px solid #007bff;">VERIFY</a>
-<br />
-<br />
-
+[![VERIFY](https://img.shields.io/badge/VERIFY-blue)](https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2Fr9BLLy0oTfKJBbkGuDI1zA)
 
 ```javascript
 while (bored === true) {
@@ -71,4 +66,3 @@ TSConfig      0 secs          ░░░░░░░░░░░░░░░░�
 <Br />
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Srijan-Baniyal?theme=dark&font=Rasa&ext=contest)
-
