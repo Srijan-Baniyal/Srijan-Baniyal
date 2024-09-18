@@ -30,7 +30,7 @@ while (bored === true) {
 ```
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tilt+Prism&size=30&pause=1000&color=0FF75B&center=true&vCenter=true&width=800&height=80&lines=Time+spent+on+various+Programming+languages" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="/Postman.jpeg" alt="Typing SVG" /></a>
 </p>
 
 <!--START_SECTION:waka-->
