@@ -36,7 +36,7 @@ while (bored === true) {
 <!--START_SECTION:waka-->
 
 ```TypeScript
-From: 06 October 2024 - To: 05 November 2024
+From: 07 October 2024 - To: 06 November 2024
 
 Total Time: 27 hrs 32 mins
 
