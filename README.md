@@ -36,16 +36,16 @@ while (bored === true) {
 <!--START_SECTION:waka-->
 
 ```TypeScript
-From: 14 December 2024 - To: 13 January 2025
+From: 15 December 2024 - To: 14 January 2025
 
-Total Time: 53 hrs 40 mins
+Total Time: 54 hrs 8 mins
 
-TypeScript    47 hrs 1 min    ██████████████████████░░░   87.59 %
-Python        3 hrs 44 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
-JSON          1 hr 40 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-Other         34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-CSS           25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-C             7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+TypeScript    46 hrs 36 mins  █████████████████████▓░░░   86.10 %
+Python        3 hrs 44 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
+JSON          1 hr 41 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+C             56 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Other         36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+CSS           25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 Text          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 JavaScript    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 TSConfig      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
