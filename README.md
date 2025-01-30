@@ -36,21 +36,20 @@ while (bored === true) {
 <!--START_SECTION:waka-->
 
 ```TypeScript
-From: 28 December 2024 - To: 27 January 2025
+From: 29 December 2024 - To: 28 January 2025
 
-Total Time: 46 hrs 26 mins
+Total Time: 44 hrs 43 mins
 
-TypeScript    35 hrs 44 mins  ███████████████████▒░░░░░   76.95 %
-Python        4 hrs 15 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
-C             3 hrs 35 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
-JSON          1 hr 24 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
-Other         55 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-JavaScript    19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-CSS           5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+TypeScript    34 hrs 35 mins  ███████████████████▒░░░░░   77.31 %
+Python        3 hrs 38 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
+C             3 hrs 35 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
+JSON          1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+Other         1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+JavaScript    23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+CSS           5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 Text          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 Git Config    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 CSV           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-TSConfig      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
