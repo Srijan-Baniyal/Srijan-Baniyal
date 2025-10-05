@@ -7,14 +7,6 @@
 
 [![An image of @srijanbaniyal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/srijanbaniyal)](https://holopin.io/@srijanbaniyal)
 
-[![Postman API Fundamentals Student Expert](/Postman.jpeg)](https://api.badgr.io/public/assertions/r9BLLy0oTfKJBbkGuDI1zA)
-
-### Postman API Fundamentals Student Expert
-
-**Awarded:** 24-Jun-2024
-
-[![VERIFY](https://img.shields.io/badge/VERIFY-blue)](https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2Fr9BLLy0oTfKJBbkGuDI1zA)
-
 ```javascript
 while (bored === true) {
   if (level === 1) {
