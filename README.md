@@ -28,21 +28,21 @@ while (bored === true) {
 <!--START_SECTION:waka-->
 
 ```TypeScript
-From: 28 November 2025 - To: 28 December 2025
+From: 29 November 2025 - To: 29 December 2025
 
-Total Time: 19 hrs 42 mins
+Total Time: 19 hrs 55 mins
 
-TypeScript     16 hrs 37 mins  █████████████████████░░░░   84.38 %
-JSON           1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
-CSS            39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-Markdown       23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-jsonc          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-git ignore     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-Bash           5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-TSConfig       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+TypeScript     16 hrs 45 mins  █████████████████████░░░░   84.15 %
+JSON           1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
+CSS            44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+Markdown       23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+jsonc          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+git ignore     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Bash           5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+TSConfig       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 Other          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 YAML           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-shell script   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+shell script   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 JavaScript     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 XML            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 Image (svg)    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
