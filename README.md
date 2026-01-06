@@ -28,13 +28,13 @@ while (bored === true) {
 <!--START_SECTION:waka-->
 
 ```TypeScript
-From: 04 December 2025 - To: 03 January 2026
+From: 05 December 2025 - To: 04 January 2026
 
-Total Time: 22 hrs 52 mins
+Total Time: 22 hrs 50 mins
 
-TypeScript     18 hrs 47 mins  ████████████████████▓░░░░   82.16 %
-JSON           1 hr 44 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
-CSS            52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+TypeScript     18 hrs 46 mins  ████████████████████▓░░░░   82.17 %
+JSON           1 hr 44 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
+CSS            52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
 Markdown       32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
 jsonc          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 Python         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
