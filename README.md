@@ -28,22 +28,22 @@ while (bored === true) {
 <!--START_SECTION:waka-->
 
 ```TypeScript
-From: 07 July 2026 - To: 06 August 2026
+From: 08 July 2026 - To: 07 August 2026
 
-Total Time: 53 hrs 42 mins
+Total Time: 54 hrs 3 mins
 
-TypeScript    38 hrs 48 mins        ██████████████████░░░░░░░   72.24 %
-Markdown      4 hrs 33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
-Text          2 hrs 36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
-JSON          2 hrs 22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-Bash          1 hr 49 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-Image (png)   1 hr 6 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+TypeScript    38 hrs 52 mins        ██████████████████░░░░░░░   71.91 %
+Markdown      4 hrs 33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
+Text          2 hrs 47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+JSON          2 hrs 19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+Bash          1 hr 44 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+Image (png)   1 hr 6 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+JavaScript    47 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 CSS           38 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-JavaScript    36 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-Other         27 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Other         28 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 YAML          20 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 SQL           6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-TSConfig      5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+TSConfig      5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 DNS Zone      5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 Git Config    3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 Image (svg)   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
